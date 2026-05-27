@@ -51,17 +51,16 @@ export const GALLERY_ITEMS = [
 ] as const;
 
 export const CLIENTS = [
-  { name: 'Jindal Steel & Power', color: 'from-orange-400 to-green-400' },
-  { name: 'NHPC', color: 'from-blue-400 to-cyan-400' },
-  { name: 'JSW', color: 'from-blue-600 to-blue-700' },
-  { name: 'Aditya Birla', color: 'from-orange-500 to-red-500' },
-  { name: 'Adani Power', color: 'from-green-500 to-teal-500' },
-  { name: 'Hindalco', color: 'from-red-500 to-orange-500' },
-  { name: 'Hinduja', color: 'from-blue-500 to-indigo-500' },
-  { name: 'L&T', color: 'from-blue-500 to-cyan-500' },
-  { name: 'Utkal Alumina', color: 'from-gray-500 to-gray-600' },
-] as const;
-
+  { name: 'Jindal Steel & Power', color: 'from-orange-400 to-green-400', logo: '/Jindal Steel Power.jpg' },
+  { name: 'NHPC',                 color: 'from-blue-400 to-cyan-400',    logo: '/NHPC.jpeg' },
+  { name: 'JSW',                  color: 'from-blue-600 to-blue-700',    logo: '/jsw.png' },
+  { name: 'Aditya Birla',         color: 'from-orange-500 to-red-500',   logo: null },
+  { name: 'Adani Power',          color: 'from-green-500 to-teal-500',   logo: '/adani power.png' },
+  { name: 'Hindalco',             color: 'from-red-500 to-orange-500',   logo: '/Hindalco.jpg' },
+  { name: 'Hinduja',              color: 'from-blue-500 to-indigo-500',  logo: '/Hinduja.jpg' },
+  { name: 'L&T',                  color: 'from-blue-500 to-cyan-500',    logo: '/Larsen and Turbo.jpg' },
+  { name: 'Utkal Alumina',        color: 'from-gray-500 to-gray-600',    logo: '/Utkal alumina.jpg' },
+];
 export const CONTACT_INFO = {
   location: 'Kolkata, West Bengal, India',
   phone: '+91 90 8888 222 6',
