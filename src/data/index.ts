@@ -54,7 +54,7 @@ export const CLIENTS = [
   { name: 'Jindal Steel & Power', color: 'from-orange-400 to-green-400', logo: '/Jindal Steel Power.jpg' },
   { name: 'NHPC',                 color: 'from-blue-400 to-cyan-400',    logo: '/NHPC.jpeg' },
   { name: 'JSW',                  color: 'from-blue-600 to-blue-700',    logo: '/jsw.png' },
-  { name: 'Aditya Birla',         color: 'from-orange-500 to-red-500',   logo: "/Utkal alumina.jpg" },
+  { name: 'Aditya Birla',         color: 'from-orange-500 to-red-500',   logo: "/aditya birla.jpg" },
   { name: 'Adani Power',          color: 'from-green-500 to-teal-500',   logo: '/adani power.png' },
   { name: 'Hindalco',             color: 'from-red-500 to-orange-500',   logo: '/Hindalco.jpg' },
   { name: 'Hinduja',              color: 'from-blue-500 to-indigo-500',  logo: '/hinduja.png' },
