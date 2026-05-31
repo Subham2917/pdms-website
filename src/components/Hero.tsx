@@ -37,7 +37,7 @@ export default function Hero() {
           </div>
 
           {/* Illustration */}
-          <div className="relative flex justify-center">
+          {/* <div className="relative flex justify-center">
             <svg viewBox="0 0 200 200" className="w-72 h-72 md:w-full md:h-auto animate-pulse">
               <defs>
                 <linearGradient id="shipGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -61,6 +61,18 @@ export default function Hero() {
               <circle cx="100" cy="45" r="8" fill="#f59e0b" />
               <path d="M 85 135 L 115 135 L 110 155 L 90 155 Z" fill="#0f766e" opacity="0.6" />
             </svg>
+          </div> */}
+
+          <div className="relative flex justify-center items-center">
+            <div className="w-96 h-96 md:w-[480px] md:h-[480px] rounded-full overflow-hidden bg-gradient-to-br from-blue-50 to-teal-50 border-2 border-blue-100 shadow-2xl">
+              <img
+                src="/logoCreator_imagetologo.jpg"
+                alt="PDMS Logo"
+                className="w-full h-full object-contain"
+              />
+            </div>
+            {/* Subtle ring animation */}
+              <div className="absolute w-96 h-96 md:w-[480px] md:h-[480px] rounded-full border-2 border-blue-200 animate-ping opacity-20" />
           </div>
         </div>
       </div>
