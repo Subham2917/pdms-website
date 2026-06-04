@@ -14,7 +14,7 @@ export const PRODUCTS = [
   },
   {
     name: 'Jet Suction Dredger',
-    image: '/jet_sunction_dredger.jpg',
+    image: '/1000147676.jpeg',
   },
   {
     name: 'Submersible Dredger',
@@ -44,7 +44,7 @@ export const SERVICES_RIGHT = [
 
 export const GALLERY_ITEMS = [
   { title: 'Marine Dredging Operations', src: '/marine.png', large: true },
-  { title: 'Infrastructure Development', src: '/jet_sunction_dredger.jpg', large: true },
+  { title: 'Ash Lagoon from Recovery Pond', src: '/jet_sunction_dredger.jpg', large: true },
   { title: 'Sand Filling', src: '/1.jpg', large: false },
   { title: 'De-Siltation', src: '/De_siltation.jpeg', large: false },
   { title: 'Jetty Construction', src: '/1000147057.jpeg', large: false },
@@ -60,6 +60,7 @@ export const CLIENTS = [
   { name: 'Hinduja',              color: 'from-blue-500 to-indigo-500',  logo: '/hinduja.png' },
   { name: 'L&T',                  color: 'from-blue-500 to-cyan-500',    logo: '/Larsen and Turbo.jpg' },
   { name: 'Utkal Alumina',        color: 'from-gray-500 to-gray-600',    logo: '/Utkal alumina.jpg' },
+  { name: 'NTPC',                 color: 'from-gray-500 to-gray-600',    logo: '/1000147673.jpg' },
 ];
 export const CONTACT_INFO = {
   location: 'Kolkata, West Bengal, India',

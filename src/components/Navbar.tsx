@@ -20,10 +20,10 @@ export default function Navbar() {
   />
   <div className="flex flex-col leading-tight">
     <span className="font-extrabold text-lg bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent tracking-wide">
-      PRAKASH
+      PRAKASH DREDGING
     </span>
     <span className="text-xs font-semibold text-gray-500 tracking-[0.2em] uppercase">
-      Dredging & Marine Services
+      & Marine Services
     </span>
   </div>
 </div>

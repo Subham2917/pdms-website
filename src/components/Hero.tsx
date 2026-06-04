@@ -66,7 +66,7 @@ export default function Hero() {
           <div className="relative flex justify-center items-center">
             <div className="w-96 h-96 md:w-[480px] md:h-[480px] rounded-full overflow-hidden bg-gradient-to-br from-blue-50 to-teal-50 border-2 border-blue-100 shadow-2xl">
               <img
-                src="/logoCreator_imagetologo.jpg"
+                src="Gemini_Generated_Image_s9c0pcs9c0pcs9c0-removebg-preview.png"
                 alt="PDMS Logo"
                 className="w-full h-full object-contain"
               />
